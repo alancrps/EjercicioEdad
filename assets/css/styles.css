@@ -71,7 +71,12 @@ input {
     -webkit-box-shadow: -3px 20px 61px 7px rgba(0, 0, 0, 0.74);
     -moz-box-shadow: -3px 20px 61px 7px rgba(0, 0, 0, 0.74);
 }
-
+.nombre{
+    text-align: center;
+}
+.edad{
+    text-align: center;
+}
 .contenido {
     display: flex;
     flex-direction: column;
